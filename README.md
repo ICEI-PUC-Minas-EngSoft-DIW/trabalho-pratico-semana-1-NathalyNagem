@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Nathaly Nagem Araújo
+Matricula: 897495
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Inspeção com navegador](images/inspeção%20do%20navegador.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Projeto no Replit](images/Página%20web.png)
 
 
 ## Orientações sobre Linguagem MarkDown
